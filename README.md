@@ -3,7 +3,7 @@
 # 💫 About Me
 
 - 💻 Web developer with over 8 years of experience
-- 🔭 Blockchain developer with 3+ experience<br>
+- 🔭 Blockchain developer with 3+ years experience<br>
 - 🏅 Took part in several projects from small to large scales<br>
 - 👯 I’m looking for a full time job<br>
 
